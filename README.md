@@ -11,6 +11,6 @@ It then proceeds to create directories suitable for using the ImageDataGenerator
 The model I created is a Convolutional Neural Network with 4 convolutional layers (with increasing number of kernals), each with MaxPooling, on top of which I stacked a dense layer with 512 units. All of the activation functions are 'ReLU'.
 
 ## Results
-The best test accuracy I obtained was 87% (80/213 ~ 37%)
+The best test accuracy I obtained was 87% (80/213 participants ~ Top 37%)
 
 **A detailed article that contains the insights and the explanations of the strategy used can be found on my Medium page: [Link Medium Page - To be updated]**
