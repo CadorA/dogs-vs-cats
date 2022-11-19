@@ -1,7 +1,7 @@
 # Dogs vs Cats - Kaggle competition
 https://www.kaggle.com/competitions/dogs-vs-cats/overview
 
-This repository contains the notebook I used to attend the related Kaggle competition. The objective is to classify the content of a given image as a dog or a cat.
+This repository contains the notebook I used to attend the related Kaggle competition. The objective is to classify the content of a given image as a dog or a cat. I used the structure and tips from the Convolutional Neural Networks in Tensorflow course on Coursera (https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
 
 ## Structure
 The notebook starts with a short description of the problem.
